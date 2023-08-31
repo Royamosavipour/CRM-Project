@@ -1,0 +1,22 @@
+
+.delet-modul{
+    background-color: var(--withe);
+    padding: 50px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.delet-modul h1{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.btn{
+    margin: 2rem;
+    width: 80px;
+}
+
+.btn:hover{
+    box-shadow: 0 2px 10px 6px rgb(184, 184, 184);
+   
+}

@@ -1,0 +1,10 @@
+.Eror-box{
+    font-size: 2rem;
+    background-color:var(--blue);
+    margin-top: 20px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+
+}

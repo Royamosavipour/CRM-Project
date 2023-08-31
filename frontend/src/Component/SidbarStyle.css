@@ -1,0 +1,44 @@
+.sidBar{
+    position: fixed;
+    background-color: var(--blue);
+    height: 100vh;
+    flex: 1;
+}
+
+.sidBar-Title{
+    font-weight: 800;
+    padding:15px 10px;
+    font-size: 1.6rem;
+    border-bottom: 3px solid white;
+    color: var(--withe-50);
+    margin-top: 15px;
+
+}
+
+
+.sidBar-link a{
+    padding: 15px;
+}
+
+.sidBar-link a{
+    text-decoration: none;
+    color: var(--withe);
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-weight: 800;
+}
+
+
+.sidBar-link a.active{
+    background-color: var(--blue-2);
+    
+}
+
+.icon-sidBar{
+    margin-right: 15px;
+}
+
+
+

@@ -1,0 +1,34 @@
+@import "./reset.css";
+
+@font-face {
+  font-family: "Edu SA Beginner", cursive;
+  font-family: "Montserrat Subrayada", sans-serif;
+
+  src: url("https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@500&family=Montserrat+Subrayada&display=swap");
+}
+
+
+:root{
+    --withe:#ffffff;
+    --blue:#5800FF;
+    --blue-50:#00D7FF;
+    --sage:#D4E2D4;
+    --pink:#FFCACC;
+    --withe-50:#FAF3F0;
+    --sage-100:#606C5D;
+    --blue-2:#8dcbe67c;
+
+
+}
+
+body{
+    background-color: var(--withe-50);
+    display: flex;
+
+}
+
+*,body,html{
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+

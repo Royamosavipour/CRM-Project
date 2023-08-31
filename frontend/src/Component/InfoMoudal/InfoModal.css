@@ -1,0 +1,11 @@
+.detail-modal {
+  padding: 30px;
+  background-color: white;
+  font-size: 1.3rem;
+  border-radius: 10px;
+  background: -webkit-radial-gradient(rgb(223, 235, 246), rgb(200, 211, 222));
+  background: radial-gradient(rgb(223, 235, 246), rgb(200, 211, 222));
+  box-shadow: 0 3px 10px 5px grey;
+  
+
+}
